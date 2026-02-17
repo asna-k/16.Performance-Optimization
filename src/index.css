@@ -1,0 +1,92 @@
+/* App.css - Colorful Version */
+
+/* Global body styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f7fa; /* light gray-blue */
+  color: #333;
+}
+
+/* Headings with vibrant colors */
+h1 {
+  color: #ff6f61; /* coral */
+}
+
+h2 {
+  color: #6a0dad; /* purple */
+}
+
+h3 {
+  color: #1e90ff; /* dodger blue */
+}
+
+h4 {
+  color: #ff8c00; /* dark orange */
+}
+
+/* Buttons - bright gradient */
+button {
+  padding: 12px 22px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 10px;
+  background: linear-gradient(45deg, #ff6f61, #ffb347); /* coral to light orange */
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  box-shadow: 0 5px 12px rgba(0,0,0,0.2);
+}
+
+button:hover {
+  background: linear-gradient(45deg, #ffb347, #ff6f61);
+  transform: translateY(-2px);
+}
+
+/* ProductCard styling - colorful borders & shadows */
+div[style*="border: 1px solid gray"] {
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 2px solid #ff6f61; /* coral border */
+  box-shadow: 0 6px 12px rgba(106, 13, 173, 0.2); /* purple shadow */
+  padding: 20px;
+  margin: 15px;
+  transition: all 0.3s ease;
+}
+
+div[style*="border: 1px solid gray"]:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 24px rgba(106, 13, 173, 0.3);
+}
+
+/* Horizontal rule */
+hr {
+  margin: 30px 0;
+  border: none;
+  border-top: 2px dashed #1e90ff; /* blue dashed line */
+}
+
+/* Paragraphs */
+p {
+  line-height: 1.6;
+  font-size: 16px;
+  color: #555;
+}
+
+/* Cart Count Highlight */
+h3 {
+  background-color: #ffe4b5; /* moccasin */
+  padding: 10px 15px;
+  border-radius: 8px;
+  display: inline-block;
+  font-weight: 600;
+}
+
+/* SlowComponent & Dashboard/About titles */
+div > h2 {
+  margin-bottom: 10px;
+  color: #20b2aa; /* light sea green */
+}
