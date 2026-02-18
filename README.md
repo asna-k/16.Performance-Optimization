@@ -15,10 +15,11 @@ The React Compiler is currently not compatible with SWC. See [this issue](https:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-
-
-
 ✨
+
+
+
+
 
 # 🚀 React Performance Optimization Training 
 
@@ -31,23 +32,23 @@ A hands-on React project demonstrating real-world performance optimization techn
 
 
 
-📖 Overview
+## 📖 Overview
 
 This project showcases how to optimize React applications using modern best practices and built-in hooks.
 
 It demonstrates:
 
-⚡ Preventing unnecessary re-renders
+- ⚡ Preventing unnecessary re-renders
 
-🧠 Memoizing expensive calculations
+._ 🧠 Memoizing expensive calculations
 
-🔁 Stabilizing function references
+._ 🔁 Stabilizing function references
 
 📦 Code splitting with lazy loading
 
 🎯 Efficient state updates
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 React (Functional Components)
 
