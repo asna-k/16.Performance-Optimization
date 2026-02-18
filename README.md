@@ -180,3 +180,4 @@ http://localhost:3000
 This project is licensed under the MIT License.
 
 ## Output
+<img width="1911" height="913" alt="Screenshot 2026-02-18 203025" src="https://github.com/user-attachments/assets/c36bca59-65f6-493d-9206-096505875e37" />
