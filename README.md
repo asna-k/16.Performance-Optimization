@@ -20,7 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ✨
 
-🚀 React Performance Optimization Training
+<title>🚀 React Performance Optimization Training </title>
 
 A hands-on React project demonstrating real-world performance optimization techniques.
 
