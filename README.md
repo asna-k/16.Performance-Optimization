@@ -143,39 +143,6 @@ npm start
 
 http://localhost:3000
 
-## 📊 What You’ll Learn
-
-- How React rendering works internally
-
-- When and why components re-render
-
-- How to control rendering behavior
-
-- Practical usage of memoization hooks
-
-- Real-world optimization strategies
-
-## 🏆 Ideal For
-
-- React beginners learning performance optimization
-
-- Developers preparing for interviews
-
-- Students attending React training sessions
-
-- Anyone wanting to write efficient React code
-
-## 📌 Future Improvements
-
-- Add React Profiler demonstration
-
-- Add performance comparison (Before vs After)
-
-- Convert to TypeScript version
-
-- Add unit tests
-
-
 
 ## Output
 <img width="1911" height="913" alt="Screenshot 2026-02-18 203025" src="https://github.com/user-attachments/assets/c36bca59-65f6-493d-9206-096505875e37" />
