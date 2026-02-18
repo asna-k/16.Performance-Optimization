@@ -40,20 +40,20 @@ It demonstrates:
 
 - ⚡ Preventing unnecessary re-renders
 
-._ 🧠 Memoizing expensive calculations
+- 🧠 Memoizing expensive calculations
 
-._ 🔁 Stabilizing function references
+- 🔁 Stabilizing function references
 
-📦 Code splitting with lazy loading
+- 📦 Code splitting with lazy loading
 
-🎯 Efficient state updates
+- 🎯 Efficient state updates
 
 ## 🛠️ Tech Stack
 
-React (Functional Components)
+- React (Functional Components)
 
-React Hooks
+- React Hooks
 
-JavaScript (ES6+)
+- JavaScript (ES6+)
 
-CSS3
+- CSS3
